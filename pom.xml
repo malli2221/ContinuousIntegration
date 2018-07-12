@@ -29,13 +29,6 @@
 
      
    </dependencies>
-  <distributionManagement>
-        
-        <snapshotRepository>
-            
-            <name>Internal Snapshot Releases</name>
-            <url>http://localhost:8081/repository/sample-snapshot/</url>
-        </snapshotRepository>
-</distributionManagement>
+
   
 </project>
